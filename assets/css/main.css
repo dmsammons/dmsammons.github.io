@@ -1807,10 +1807,11 @@
 
 					.box.style1 h3 {
 						margin-bottom: 0.5em;
+						text-align: left;
 					}
 
 					.box.style1 p {
-						text-align: left
+						text-align: left;
 					}
 
 				.box.style2 h3 {
