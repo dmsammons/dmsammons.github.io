@@ -1881,8 +1881,8 @@
 				}
 
 				#top p {
-					font-size: 1.5em;
-					line-height: 1.75em;
+					font-size: 1.15em;
+					line-height: 1.45em;
 				}
 
 			#contact footer {
