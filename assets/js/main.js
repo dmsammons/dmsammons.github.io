@@ -56,6 +56,11 @@
 					speed: 1000,
 					offset: x
 				});
+                                $('#top a, .scrolly').scrolly({
+					speed: 1000,
+					offset: x
+				});
+
 
 			});
 
