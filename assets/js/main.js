@@ -60,6 +60,11 @@
 					speed: 1000,
 					offset: x
 				});
+				
+				$('#projects a, .scrolly').scrolly({
+					speed: 1000,
+					offset: x
+				});
 
 
 			});
